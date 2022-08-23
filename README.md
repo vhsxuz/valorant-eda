@@ -1,5 +1,7 @@
 # Valorant Exploratory Data Analysis (EDA)
 
+Note: Please use light mode for better read experience
+
 <img src="https://images6.alphacoders.com/107/1072679.jpg" />
 
 ## Introduction
@@ -28,7 +30,7 @@ Player Rank Distributions
 </div>
 
 <div align="center">
-  <img src="https://ih1.redbubble.net/image.2618990925.1707/st,small,507x507-pad,600x600,f8f8f8.jpg" />
+  <img src="https://media.karousell.com/media/photos/products/2020/7/27/valorant_immortal_1_account_1595859500_f0ee976a_progressive" />
 </div>
 
 <p align="center">
@@ -41,10 +43,26 @@ Valorant Agent Distributions
 </h3>
 
 <div align="center">
-  <img src="./Results/agent-pick-distribution.png"/>
+  <img src="./Results/agent-pick-distribution.png"/ width="50%">
+</div>
+
+<div align="center">
+  <img src="https://images3.alphacoders.com/120/1202646.jpg"/ width="50%">
 </div>
 
 <p align="center">
-Based on these data, the majority of valorant players have a rank of immortal 1, which means that these data are the data of professional valorant players.
+Based on these data, the majority of professional valorant players uses chamber because of his ability that gives the player additional weapons and being able to slow the enemies
+</p>
+
+<h3 align="center">
+Valorant Weapon Distributions
+</h3>
+
+<div align="center">
+  <img src="./Results/weapon-pick-distribution.png"/ width="50%">
+</div>
+
+<p align="center">
+Based on these data, the majority of professional valorant players uses vandal as their weapon because this weapon has some affordable price and really good performance which able to kill an enemy in a single shot
 </p>
 
