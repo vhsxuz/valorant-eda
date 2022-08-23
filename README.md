@@ -51,7 +51,7 @@ Valorant Agent Distributions
 </div>
 
 <p align="center">
-Based on these data, the majority of professional valorant players uses chamber because of his ability that gives the player additional weapons and being able to slow the enemies
+Based on these data, the majority of professional valorant players uses chamber because of his ability that gives the player additional weapons and being able to slow the enemies. On the other hands, professional valorant players rarelt uses phoenix because his ability doesn't gives the player that much benefits. 
 </p>
 
 <h3 align="center">
@@ -62,7 +62,14 @@ Valorant Weapon Distributions
   <img src="./Results/weapon-pick-distribution.png"/ width="50%">
 </div>
 
+<div align="center">
+  <img src="https://wallpapercave.com/wp/wp8349829.jpg" width="50%"/>
+</div>
+
 <p align="center">
 Based on these data, the majority of professional valorant players uses vandal as their weapon because this weapon has some affordable price and really good performance which able to kill an enemy in a single shot
 </p>
+
+## Conclusion
+some Valorant agents need to be changed, such as phoenix by giving buffs to the character and changing agents that's too powerful such as Chamber. About the weapons, so far it can be said to be quite balanced with their respective characteristics. The gap of weapon pick rates is due to the fact that these two weapons (Vandal and Phantom) are the most popular types of weapons used in similar games, both Valorant and its predecessor, Counter Strike Global Offensive (CSGO).
 
