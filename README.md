@@ -19,7 +19,32 @@ In conducting the analysis, the dataset used is the Valorant leaderboard statist
 The Exploratory Data Analytics (EDA) was carried out using the python programming language and using various libraries, such as pandas, matplotlib, and pyspark. Pyspark is the library in charge of processing the data which is then converted into pandas format so that it can be visualized easily. The results of the data that have been converted into pandas will be visualized through the functions contained in the matplotlib library. The whole process is carried out with the help of Google Colab as a place to run the program.
 
 ## Result
-<p align="center">
+<h3 align="center">
 Player Rank Distributions
-  <p>
-<img src="./Results/player-ranks.png" />
+</h3>
+
+<div align="center">
+  <img src="./Results/player-rank.png" />
+</div>
+
+<div align="center">
+  <img src="https://ih1.redbubble.net/image.2618990925.1707/st,small,507x507-pad,600x600,f8f8f8.jpg" />
+</div>
+
+<p align="center">
+The data we use are players from Immortal rank 3 to Radiant. We used that rating because the number of players who had a rating other than that seemed ridiculous. That's ridiculous in the sense that the number of players with iron to diamond ranks is not more than 100 which is not in accordance with the facts. Based on these data, the majority of valorant players have a rank of immortal 1, which means that these data are the data of professional valorant players.
+</p>
+  
+ 
+ <h3 align="center">
+Valorant Agent Distributions
+</h3>
+
+<div align="center">
+  <img src="./Results/agent-pick-distribution.png"/>
+</div>
+
+<p align="center">
+Based on these data, the majority of valorant players have a rank of immortal 1, which means that these data are the data of professional valorant players.
+</p>
+
