@@ -2,7 +2,7 @@
 
 Note: Please use light mode for better read experience
 
-<img src="https://images6.alphacoders.com/107/1072679.jpg" />
+<img src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" />
 
 ## Introduction
 Valorant is a first-person team-based game developed by a game developers company called “Riot Games”. The game was introduced on April 7, 2020, under the codename “Project A” and it was released on June 2, 2020. With a similar concept to CSGO (Counter Strike Global Offensive), this game comes with two teams with each team consisting of 5 players. The difference is, in Valorant, every agent or hero has a special skill to add to the excitement of the battle. Each agent has a different role which indicates how the agent is usually played
